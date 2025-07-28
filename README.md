@@ -21,10 +21,23 @@
 
 ## 🧰 Технологии и инструменты
 
-```
+```bash
 💻 Python | Django | DRF | FastAPI | Flask | SQLAlchemy | ООП | REST API
 🗄 PostgreSQL | MS SQL Server | SQLite | Alembic | Redis
 🛠 Docker | Git | CI/CD | Nginx | Linux
 📡 IMAP/SMTP | Selenium | Pandas | AsyncSSH | Folium
 🧪 Pytest | Postman | VS Code | GitHub Actions
 ```
+
+---
+
+## 📫 Контакты
+
+- 📧 Email: [alexander.choliy@mail.ru](mailto:alexander.choliy@mail.ru)  
+- 💬 Telegram: [@alexander_choliy](https://t.me/alexander_choliy)  
+- 📄 Резюме: [hh.ru](https://hh.ru/resume/c81a27e4ff0c26b93f0039ed1f594c4e314572)  
+- 🌐 GitHub: [github.com/AlexanderCholiy](https://github.com/AlexanderCholiy)
+
+---
+
+_Спасибо, что заглянули! Буду рад обратной связи, предложениям по сотрудничеству и интересным задачам._
