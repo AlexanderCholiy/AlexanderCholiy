@@ -21,9 +21,10 @@
 
 ## 🧰 Технологии и инструменты
 
-```text
+```
 💻 Python | Django | DRF | FastAPI | Flask | SQLAlchemy | ООП | REST API
 🗄 PostgreSQL | MS SQL Server | SQLite | Alembic | Redis
 🛠 Docker | Git | CI/CD | Nginx | Linux
 📡 IMAP/SMTP | Selenium | Pandas | AsyncSSH | Folium
 🧪 Pytest | Postman | VS Code | GitHub Actions
+```
